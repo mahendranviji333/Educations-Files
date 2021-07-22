@@ -9,3 +9,9 @@
 - Terminator shortcut links
 
   [click Here for shortcuts](https://defkey.com/terminator-terminal-emulator-shortcuts)
+
+# Postgresql Tutorials
+  
+  - Postgresql official Tutorial
+  
+    [Click here for Tutorial](https://www.postgresqltutorial.com/)
